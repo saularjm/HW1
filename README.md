@@ -4,7 +4,8 @@ In this project, I modified the HTML and CSS files to add accessibility and effi
 
 ### HTML: 
     I added semantic HTML tags, such as <section>, <article>, <aside>, <header>, and <footer>, replacing generic
-    tags, such as <div>. This will help with Search Engine Optimization, as well as meet accessibility standards. 
+    tags, such as <div>. I also added alt and title attributes to any <image>/<a> tags and a relevant <title> for the webpage.
+    This will help with Search Engine Optimization, as well as meet accessibility standards. 
 
 ### CSS:
     I consolidated several CSS classes and ID's that used the same specifications by renaming them in the HTML and removing
